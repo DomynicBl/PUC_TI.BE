@@ -15,5 +15,7 @@ class SomarInteiros {
 	
 	System.out.println("A soma dos dois numeros e " + soma + ".");
 	
+	//Integração da IDE Eclipse com o GitHub, realizada com sucesso.
+	
 	}
 }
