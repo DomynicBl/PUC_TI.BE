@@ -1,0 +1,8 @@
+<dependencies>
+    <!-- Outras dependências -->
+    <dependency>
+        <groupId>com.azure</groupId>
+        <artifactId>azure-ai-texttranslation</artifactId>
+        <version>5.0.0</version> <!-- Verifique a versão mais recente -->
+    </dependency>
+</dependencies>
